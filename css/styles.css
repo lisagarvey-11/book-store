@@ -30,11 +30,6 @@ p {
   font-style: georgia;
 }
 
-.important {
-  text-align: center;
-  font: georgia;
-}
-
 .my-class {
   border: 2px solid green;
   padding: 4px;
